@@ -3,7 +3,8 @@ This script will activate your webcam, read your facial expression and make the 
 
 # Example Gif
 
-# What it really does. > 2 resulting scripts (Screen_Flash_When_Angry.py & Doggy_Pic_When_Angry)
+# What it really does.
+2 main scripts are:
 Screen_Flash_When_Angry.py activates the webcam and calls a pretrained model (Emotion_rec_model.h5) to recognice the facial expression of the user and lets your screen flash for a moment when your face looks tense.
 Doggy_Pic_When_Angry.py does the same but it makes a random happy doggo pic pop up.
 The camera frame rate is reduced to 1 image every approx 3 seconds to keep it efficient and once 2 consecutive images show an angry face the screen flashes instantly.
