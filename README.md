@@ -25,3 +25,6 @@ Is the cascade used for face recognition in openCV model
 
 requirements.txt
 Defines all packages needed
+
+# Sharing and modifying
+Please do so but state / original github account or as contributor
